@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2A02AA8F-43F8-4796-B9D6-D8B3CD78F670",
+  "do_objectID": "EED38AD7-15FD-446A-BDD2-B985E132B200",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,20 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 770,
+    "width": 258,
+    "x": 9,
+    "y": 174
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -37,15 +30,31 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "DB5AECD1-A991-4176-A0FF-1509F662D432"
+      "class": "shapeGroup",
+      "id": "5FBE7DE2-D0DF-40DD-9F3F-30736AEAF9D1"
     },
     {
-      "class": "artboard",
-      "id": "54AB9670-75F6-4403-B2C5-9898B87AB7E0"
+      "class": "symbolInstance",
+      "id": "EE9DCA7D-4D7A-42BD-A88D-56675CC2D2D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67C3E57F-681C-45A9-9AB5-A2EBA0624B23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8D13716-CC0A-4EE0-96A4-B458B99B6C6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C9BE49CB-A231-4ECF-9980-E6645AD89E56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51B230D1-8A72-4832-B49C-59E783889B19"
     }
   ],
-  "name": "Page 1",
+  "name": "AstudentList 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -57,12 +66,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-      294
-    ]
   }
 }

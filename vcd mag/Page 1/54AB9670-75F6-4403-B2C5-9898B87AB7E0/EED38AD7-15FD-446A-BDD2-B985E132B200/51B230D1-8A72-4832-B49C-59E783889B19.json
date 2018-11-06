@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2A02AA8F-43F8-4796-B9D6-D8B3CD78F670",
+  "do_objectID": "51B230D1-8A72-4832-B49C-59E783889B19",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 146,
+    "width": 258,
     "x": 0,
-    "y": 0
+    "y": 616
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "DB5AECD1-A991-4176-A0FF-1509F662D432"
-    },
-    {
-      "class": "artboard",
-      "id": "54AB9670-75F6-4403-B2C5-9898B87AB7E0"
-    }
-  ],
-  "name": "Page 1",
+  "name": "AstudentList",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,11 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-      294
-    ]
-  }
+  "symbolID": "957AEC09-F0CD-4AB0-8FF4-BAB2ACA04270",
+  "verticalSpacing": 0
 }
